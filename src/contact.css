@@ -1,0 +1,13 @@
+.contact-information-container {
+    display: flex;
+    font-size: 20px;
+    
+}
+
+li {
+    margin: 10px;
+}
+
+span {
+    font-weight: bold;
+}
