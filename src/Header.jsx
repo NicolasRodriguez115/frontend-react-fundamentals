@@ -5,9 +5,12 @@ import "../src/header.css";
 const Header = () =>{
     return (
         <>
+        <header>
             <div className="header-container">
                 <h1>Spider-Man</h1>
             </div>
+        </header>
+            
         </>
     );
 }

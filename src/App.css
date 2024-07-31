@@ -1,0 +1,7 @@
+body {
+    margin: 0;
+    height: 100vh;
+    background: linear-gradient(to right, #df1f2d, #447bbe); /* Adjust the colors and direction as needed */
+    color: white
+}
+
